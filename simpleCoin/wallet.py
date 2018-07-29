@@ -22,10 +22,10 @@ import requests
 import time
 import base64
 import ecdsa
-**********************************************************
-CHANGES  6789
-*************************************************************
 
+CHANGES  6789
+
+def COIN():
 def wallet():
     response = None
     while response not in ["1", "2", "3"]:
