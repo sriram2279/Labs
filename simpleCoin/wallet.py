@@ -1,4 +1,4 @@
-"""This is going to be your wallet. Here you can do several things:
+  """This is going to be your wallet. Here you can do several things:
 - Generate a new address (public and private key). You are going
 to use this address (public key) to send or receive any transactions. You can
 have as many addresses as you wish, but keep in mind that if you
@@ -22,9 +22,9 @@ import requests
 import time
 import base64
 import ecdsa
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-CHANGES
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+**********************************************************
+CHANGES  6789
+*************************************************************
 
 def wallet():
     response = None
